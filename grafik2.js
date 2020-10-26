@@ -60,6 +60,10 @@ for(i=0;i<data.length;i++){
 
       );
 
+
+
+
+      
       //Structure the data to create the chart
       let chartsNbr = data.results.length;
       let xi = data.xiData;
